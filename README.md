@@ -1,1 +1,2 @@
-# Superficial_White_Matter_audiomotor
+# White matter structural bases for predictive tapping synchronization 
+# Supplementary data
