@@ -1,5 +1,5 @@
 # White matter structural bases for predictive tapping synchronization 
-# Supplementary data
+# Extended data
 
 Extended data 3. Spatial correlations between the SWM Apparent Fiber Density and  interval-specific absolute asynchronies of the auditory modality.  Correlation coefficients (r2) of the significant cluster vertices after surface-based analysis through the depths sampled (PFWE < 0.001 and PCluster< 0.001).
 
