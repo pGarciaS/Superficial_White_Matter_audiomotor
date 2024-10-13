@@ -3,15 +3,13 @@
 
 Extended data 3. Spatial correlations between the SWM Apparent Fiber Density and  interval-specific absolute asynchronies of the auditory modality.  Coefficient of determination (r2) of the significant cluster vertices after surface-based analysis through the depths sampled (PFWE < 0.001 and PCluster< 0.001).
 
-
-https://user-images.githubusercontent.com/21090881/188528804-d65a7500-599c-4955-82a9-665e4ec1ac47.mp4
+https://github.com/user-attachments/assets/6fa6b294-e25d-4583-a6f1-277715dee934
 
 Extended data 4.  Spatial correlations between the Tangential SWM Apparent Fiber Density and interval-specific absolute asynchronies of the auditory modality.  Coefficient of determination (r2) of the significant cluster vertices after surface-based analysis through the depths sampled (PFWE < 0.001 and PCluster< 0.001).
 
-https://user-images.githubusercontent.com/21090881/188529031-55ca6c39-2440-4eb6-9162-b94271d98922.mp4
+https://github.com/user-attachments/assets/5cf7d06f-f91f-435d-b4e2-a81caa40334f
 
 Extended data 5. Spatial correlations between the Parallel SWM Apparent Fiber Density and interval-specific absolute asynchronies of the auditory modality.  Coefficient of determination (r2) of the significant cluster vertices after surface-based analysis through the depths sampled (PFWE < 0.001 and PCluster< 0.001).
 
-https://user-images.githubusercontent.com/21090881/188529073-f9d6e168-0321-436b-8189-ed5bdba1d44f.mp4
-
+https://github.com/user-attachments/assets/151aff66-0af5-4b32-8deb-d3177fe1e2e6
 
